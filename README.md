@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Cora!
 
-I'm an iOS developer who has a passion for blending logical, analytical thinking with creativity to build products that inspire, teach, support, or entertain. I like to make pretty things that do cool stuff!
+I'm an iOS developer with a passion for blending logical, analytical thinking with creativity to build products that inspire, teach, support, or entertain. I like to make pretty things that do cool stuff!
 
 - 🪴 I’m currently working on:
     - [TimeTranslator](https://apps.apple.com/us/app/time-translator/id1552304730) - the educational app I recently launched to the App Store with @Zachthac
